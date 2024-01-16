@@ -117,6 +117,38 @@
         left: 30%;
     }
 
+    .why-chose-us-section-heading h2{
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    .why-chose-us-section-heading p{
+        font-size: 0.875rem;
+    }
+
+    .card h3{
+        font-size: 1.25rem;
+        margin-bottom: 10px;
+
+    }
+
+    .card p{
+        font-size: 0.875rem;
+    }
+
+    .first-row-card {
+        flex-direction: column;
+    }
+
+    .card {
+        padding: 20px;
+        width: 100%;
+    }
+
+    .second-row-card{
+        flex-direction: column;
+    }
+
 
 
 
