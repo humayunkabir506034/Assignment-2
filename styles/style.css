@@ -258,3 +258,25 @@ input {
     left: 35%;
     
 }
+
+/* why chose us section */
+
+.why-chose-us-section-heading{
+    text-align: center;
+    
+}
+
+
+.why-chose-us-section-heading h2{
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.why-chose-us-section-heading p{
+
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
